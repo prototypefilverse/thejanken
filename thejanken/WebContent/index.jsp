@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>じゃんけんゲーム</title>
+<title>Theじゃんけん</title>
 </head>
 <body>
-<h2>じゃんけん・ゲーム</h2>
+<h2>Theじゃんけん</h2>
 <form action="result.jsp" method="post" accept-charset="UTF-8">
     <input type="radio" name="choice" value="グー" checked> グー
     <input type="radio" name="choice" value="チョキ"> チョキ
