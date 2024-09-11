@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Theじゃんけん</title>
+<title>じゃんけん</title>
 </head>
 <body>
 <h2>Theじゃんけん</h2>
